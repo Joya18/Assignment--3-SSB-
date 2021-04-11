@@ -1,0 +1,49 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.header{
+    height: 100px;
+    color:black;
+    background-color: rgb(82, 137, 209);
+    text-align: center;
+    
+}
+.parent{
+    overflow: hidden;
+}
+.left_part{
+    color: black;
+    background-color: rgb(201, 105, 193);
+    width: 50%;
+    height: 400px;
+    text-align: center;
+    float: left;
+}
+.right_part{
+    color: black;
+    background-color: rgb(187, 131, 233);
+    width: 50%;
+    height: 400px;
+    text-align: center;
+    float: left;
+}
+.parent{
+    overflow: hidden;
+}
+.main_content{
+    height: 300PX;
+    color: black;
+    background-color: rgb(89, 77, 121);
+    width: 100%;
+    text-align: center;
+
+
+}
+.footer{
+        height: 100px;
+        color: black;
+        background-color: cornflowerblue;
+        text-align: center;
+}
